@@ -1,0 +1,17 @@
+[Files List]
+C:/Aldec/Active-HDL-Student-Edition/vlib/std/src/standard.vhd=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/PerformanceCounters.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/MEM_WB .v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/DataMemory.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/EX_MEM.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/ALU.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/ForwardingUnit.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/ID_EX .v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/HazardDetectionUnit.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/SignExtension.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/RegisterFile.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/ControlUnit.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/IF_ID.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/InstructionMemory.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/CPU.v=S
+C:/Users/omar/OneDrive/Desktop/all/Arc-Project2/Arc-Project2/Project2/new/src/CPU_tb.v=S

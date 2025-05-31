@@ -1,0 +1,93 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=new
+[Library]
+new=.\new\new.lib
+[$LibMap$]
+new=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/ALU.v=-1
+/ControlUnit.v=-1
+/IF_ID.v=-1
+/ID_EX .v=-1
+/EX_MEM.v=-1
+/MEM_WB .v=-1
+/InstructionMemory.v=-1
+/DataMemory.v=-1
+/SignExtension.v=-1
+/RegisterFile.v=-1
+/ForwardingUnit.v=-1
+/HazardDetectionUnit.v=-1
+/PerformanceCounters.v=-1
+/CPU.v=-1
+/CPU_tb.v=-1
+/defines.vh=-1
+[Files.Data]
+.\src\ALU.v=Verilog Source Code
+.\src\ControlUnit.v=Verilog Source Code
+.\src\IF_ID.v=Verilog Source Code
+.\src\ID_EX .v=Verilog Source Code
+.\src\EX_MEM.v=Verilog Source Code
+.\src\MEM_WB .v=Verilog Source Code
+.\src\InstructionMemory.v=Verilog Source Code
+.\src\DataMemory.v=Verilog Source Code
+.\src\SignExtension.v=Verilog Source Code
+.\src\RegisterFile.v=Verilog Source Code
+.\src\ForwardingUnit.v=Verilog Source Code
+.\src\HazardDetectionUnit.v=Verilog Source Code
+.\src\PerformanceCounters.v=Verilog Source Code
+.\src\CPU.v=Verilog Source Code
+.\src\CPU_tb.v=Verilog Source Code
+.\src\defines.vh=SystemVerilog Source Code
+[folders]
+name0=ALINT-PRO Workspaces
+directory0=c:\My_Designs\new\new\
+extension0=alintws
+name1=Coverage Databases
+directory1=c:\My_Designs\new\new\
+extension1=acdb
+name2=Dll Libraries
+directory2=c:\My_Designs\new\new\
+extension2=dll
+name3=Event Lists
+directory3=c:\My_Designs\new\new\
+extension3=lst
+name4=HTML Files
+directory4=c:\My_Designs\new\new\
+extension4=htm;html
+name5=Log Files
+directory5=c:\My_Designs\new\new\
+extension5=log;htm;xml;txt
+name6=Matlab/Simulink Files
+directory6=c:\My_Designs\new\
+extension6=m;mdl;slx
+name7=Memory Files
+directory7=c:\My_Designs\new\new\
+extension7=mem;mif;hex
+name8=PDF Files
+directory8=c:\My_Designs\new\new\
+extension8=pdf
+name9=Profiler Databases
+directory9=c:\My_Designs\new\new\
+extension9=tbp
+name10=Script Files
+directory10=c:\My_Designs\new\new\
+extension10=do;tcl;pl
+name11=Waveform Files
+directory11=c:\My_Designs\new\new\
+extension11=asdb;awc;asdbc;asdbe
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

@@ -1,0 +1,31 @@
+Active-HDL 15.0.261.9132 2025-05-31 14:27:19
+
+Elaboration top modules:
+Verilog Module                CPU_tb
+
+
+-------------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+CPU_tb                  | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+CPU                     | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+InstructionMemory       | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+IF_ID                   | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ControlUnit             | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+RegisterFile            | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+SignExtension           | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+HazardDetectionUnit     | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ID_EX                   | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ForwardingUnit          | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ALU                     | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+EX_MEM                  | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+DataMemory              | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+MEM_WB                  | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+PerformanceCounters     | new     |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                 | Comment
+-------------------------------------------------------------------------------------------
+new                     | None
+-------------------------------------------------------------------------------------------

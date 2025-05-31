@@ -1,0 +1,16 @@
+.\src\ALU.v
+.\src\ControlUnit.v
+.\src\IF_ID.v
+.\src\ID_EX .v
+.\src\EX_MEM.v
+.\src\MEM_WB .v
+.\src\InstructionMemory.v
+.\src\DataMemory.v
+.\src\SignExtension.v
+.\src\RegisterFile.v
+.\src\ForwardingUnit.v
+.\src\HazardDetectionUnit.v
+.\src\PerformanceCounters.v
+.\src\CPU.v
+.\src\CPU_tb.v
+.\src\defines.vh
